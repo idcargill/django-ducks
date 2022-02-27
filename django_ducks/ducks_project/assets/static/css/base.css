@@ -1,0 +1,19 @@
+body {
+  margin: auto;
+  margin-top: 50px;
+  padding: 5px;
+  text-align: center;
+  background: rgb(132, 169, 175);
+  color: rgb(17, 22, 8);
+  max-width: 600px;
+}
+
+.duckburg-txt {
+  max-width: 500px;
+  margin: auto;
+}
+
+img {
+  border-radius: 20%;
+  margin: auto;
+}
